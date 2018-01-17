@@ -1,0 +1,26 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "plugins": ["react-native"],
+  "settings": {
+    "import/resolver": {
+      "babel-module": {},
+      "node": {
+        "extensions": [".js", ".ios.js", ".android.js"]
+      }
+    }
+  },
+  "rules": {
+    "strict": 0,
+    "no-console": 0,
+    "react-native/no-unused-styles": 2,
+    "react-native/split-platform-components": 2,
+    "react-native/no-inline-styles": 2,
+    "react-native/no-color-literals": 2,
+    "react/prop-types": 0,
+    "react/jsx-filename-extension": 0,
+    "react/jsx-max-props-per-line": 0,
+    "no-use-before-define": 0,
+    "react/forbid-prop-types": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "sdkVersion": "23.0.0",
+    "orientation": "landscape",
+    "slug": "dictaNote",
+    "androidStatusBar": {
+      "hidden": true
+    },
+    "ios": {
+      "bundleIdentifier": "com.dessanedev.dictaNote"
+    },
+    "android": {
+      "package": "com.dessanedev.dictaNote"
+    },
+    "splash": {
+      "backgroundColor": "#191919"
+    }
+  },
+  "name": "dictaNote",
+  "displayName": "dictaNote"
+}
