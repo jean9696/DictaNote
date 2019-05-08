@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "jest-expo": "23.0.0",
-    "react-native-scripts": "1.8.1",
-    "react-test-renderer": "16.0.0"
+    "jest-expo": "32.0.0",
+    "react-native-scripts": "2.0.1",
+    "react-test-renderer": "16.8.6"
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
   "scripts": {
@@ -19,11 +19,11 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "@expo/vector-icons": "^6.2.2",
-    "expo": "^23.0.4",
+    "@expo/vector-icons": "^10.0.1",
+    "expo": "^32.0.6",
     "prop-types": "^15.6.0",
-    "react": "16.0.0",
-    "react-native": "0.50.3",
+    "react": "16.8.6",
+    "react-native": "0.59.7",
     "standalone-vexflow-context": "^0.1.1",
     "vexflow": "^1.2.84"
   }
